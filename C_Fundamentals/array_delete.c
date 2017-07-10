@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 /*
 
 Let LA be a Linear Array (unordered) with N elements and K is a positive integer such that K<=N.
@@ -16,13 +14,13 @@ Following is the algorithm where ITEM is inserted into the Kth position of LA.
 
 */
 
-
 #include <stdio.h>
+
 
 main() {
    int LA[] = {1,3,5,7,8};
-   int item = 10, k = 3, n = 5;
-   int i = 0, j = n;
+   int k = 3, n = 5;
+   int i, j;
 
    printf("The original array elements are :\n");
 
@@ -30,18 +28,41 @@ main() {
       printf("LA[%d] = %d \n", i, LA[i]);
    }
 
-   n = n + 1;
+   j = k;
 
-   while( j >= k) {
-      LA[j+1] = LA[j];
-      j = j - 1;
+
+   while( j < n) {
+      LA[j-1] = LA[j];
+      j = j + 1;
    }
 
-   LA[k] = item;
+   n = n -1;
 
-	printf("The array elements after insertion :\n");
+   printf("The array elements after deletion :\n");
 
    for(i = 0; i<n; i++) {
       printf("LA[%d] = %d \n", i, LA[i]);
    }
 }
+
+/*
+
+the output of this algorithm is:
+
+The original array elements are :
+
+LA[0] = 1
+LA[1] = 3
+LA[2] = 5
+LA[3] = 7
+LA[4] = 8
+
+The array elements after deletion :
+
+LA[0] = 1
+LA[1] = 3
+LA[2] = 7
+LA[3] = 8
+
+
+*/
