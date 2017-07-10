@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6016a3da-a64c-486c-835e-b16f8e2380f4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/C_Fundamentals/array_delete.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/C_Fundamentals/array_insertion2.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/C_Fundamentals/search_array.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/C_Fundamentals/search_array_2.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/C_Fundamentals/update_array.c" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/C_Fundamentals/array_insertion.c" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Java_Fundamentals/Point2D.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Java_Fundamentals/equal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Java_Fundamentals/recursive_string.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/C_Fundamentals/update_array.c" afterPath="$PROJECT_DIR$/C_Fundamentals/update_array.c" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,65 +42,52 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BlockDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Java_Fundamentals/BlockDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-              <folding>
-                <element signature="e#0#404#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GalToLitTable.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Java_Fundamentals/GalToLitTable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="2" lean-forward="false" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
-              <folding>
-                <element signature="e#0#588#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="array_insertion2.c" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C_Fundamentals/array_insertion2.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="832">
-              <caret line="66" column="2" lean-forward="true" selection-start-line="66" selection-start-column="2" selection-end-line="66" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="array_delete.c" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C_Fundamentals/array_delete.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
-              <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="search_array.c" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/C_Fundamentals/search_array.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="36" column="58" lean-forward="true" selection-start-line="36" selection-start-column="58" selection-end-line="36" selection-end-column="58" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="update_array.c" pinned="false" current-in-tab="true">
+      <file leaf-file-name="update_array.c" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/C_Fundamentals/update_array.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="53" column="0" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+            <state relative-caret-position="765">
+              <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Point2D.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Java_Fundamentals/Point2D.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3740">
+              <caret line="220" column="1" lean-forward="false" selection-start-line="220" selection-start-column="1" selection-end-line="220" selection-end-column="1" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#2163#2164#0" expanded="true" />
+                <element signature="e#2227#2228#0" expanded="true" />
+                <element signature="e#6321#6322#0" expanded="true" />
+                <element signature="e#6368#6369#0" expanded="true" />
+                <element signature="e#6420#6421#0" expanded="true" />
+                <element signature="e#6455#6456#0" expanded="true" />
+                <element signature="e#6549#6550#0" expanded="true" />
+                <element signature="e#6609#6610#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="recursive_string.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Java_Fundamentals/recursive_string.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="equal.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Java_Fundamentals/equal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -145,6 +130,9 @@
         <option value="$PROJECT_DIR$/C_Fundamentals/search_array.c" />
         <option value="$PROJECT_DIR$/C_Fundamentals/search_array_2.c" />
         <option value="$PROJECT_DIR$/C_Fundamentals/update_array.c" />
+        <option value="$PROJECT_DIR$/Java_Fundamentals/Point2D.java" />
+        <option value="$PROJECT_DIR$/Java_Fundamentals/recursive_string.java" />
+        <option value="$PROJECT_DIR$/Java_Fundamentals/equal.java" />
       </list>
     </option>
   </component>
@@ -670,12 +658,12 @@
       <updated>1498072316799</updated>
       <workItem from="1498072320434" duration="548000" />
       <workItem from="1498076239108" duration="3008000" />
-      <workItem from="1499622053277" duration="3969000" />
+      <workItem from="1499622053277" duration="5008000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7525000" />
+    <option name="totallyTimeSpent" value="8564000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -840,16 +828,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Java_Fundamentals/GaltoLit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="76" lean-forward="false" selection-start-line="13" selection-start-column="76" selection-end-line="13" selection-end-column="76" />
-          <folding>
-            <element signature="e#0#320#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Java_Fundamentals/BlockDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -910,10 +888,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Java_Fundamentals/Point2D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3740">
+          <caret line="220" column="1" lean-forward="false" selection-start-line="220" selection-start-column="1" selection-end-line="220" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#2163#2164#0" expanded="true" />
+            <element signature="e#2227#2228#0" expanded="true" />
+            <element signature="e#6321#6322#0" expanded="true" />
+            <element signature="e#6368#6369#0" expanded="true" />
+            <element signature="e#6420#6421#0" expanded="true" />
+            <element signature="e#6455#6456#0" expanded="true" />
+            <element signature="e#6549#6550#0" expanded="true" />
+            <element signature="e#6609#6610#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/C_Fundamentals/update_array.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="53" column="0" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+        <state relative-caret-position="765">
+          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java_Fundamentals/GaltoLit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="76" lean-forward="false" selection-start-line="13" selection-start-column="76" selection-end-line="13" selection-end-column="76" />
+          <folding>
+            <element signature="e#0#320#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java_Fundamentals/recursive_string.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java_Fundamentals/equal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
           <folding />
         </state>
       </provider>

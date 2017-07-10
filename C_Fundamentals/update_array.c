@@ -25,7 +25,7 @@ main() {
 
    LA[k-1] = item;
 
-   printf("The array elements after updation :\n");
+   printf("The array elements after update :\n");
 
    for(i = 0; i<n; i++) {
       printf("LA[%d] = %d \n", i, LA[i]);
