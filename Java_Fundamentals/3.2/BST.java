@@ -63,8 +63,10 @@ public class BST<Key extends Comparable<Key>, Value>
             if (cmp > 0)
                 x.fight = put(x.right, key, val);
             else
-                x.val = val;
+                x.val = val; // update the value if found
+
             x.n = size(x.left) + size(x.right) + 1;
+
             return x;
         }
     }
